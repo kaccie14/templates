@@ -6,3 +6,9 @@ _Contents in this repository are proprietary, confidential, exempt from disclosu
 
 -----------------
 
+### Hit the ground running
+```python
+x = 3
+x = x*x # square of x
+print("Hello World")
+```
