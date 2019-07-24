@@ -1,7 +1,20 @@
 
 # Resources
 
-## Cover Letter
+## Jobs
+
+### Profile
+Kaccie grew up in Shelton, WA but left town to pick up a couple degrees from Rochester and a PhD from Berkeley. Dr. Li joined Smart Vision Labs in April 2015 as Principal Scientist after stints at Abbott Medical Optics and Brien Holden Vision, and as of early 2017 he became the company’s first Chief Scientist. He brings deep knowledge in wavefront estimation/control and low-cost optics manufacturing. More importantly, he’s one of the few Asian-American Dutch speakers in the world and can (almost) snatch a 32-kg kettlebell
+
+### Advice
+1. For the sake of continuing education as a scientist, try to attend one big scientific conference at least every other year.
+
+### Recruiter
+Hi Michael,
+Thanks for contacting me. I think I might be a fit for this role. If you recall, I have X, Y, Z in my background. Remember though that I’m earning $1,000,000 base, and if you think that wouldn’t deter your client, then I’m open to talking. Can we set up a time to talk further about this position?
+Thanks for your time,
+
+### Cover Letter
 
 ## Communications
 
